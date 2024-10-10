@@ -1,2 +1,4 @@
 # Ignore files insde of ./graphs
 /graphs/*
+# igonore files inside of ./logs
+/logs/*
